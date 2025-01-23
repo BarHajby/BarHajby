@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bar Hajby</h1>
-<h3 align="center">Experienced Penetration Tester Specializing in Web, Mobile & Thick Client Applications from Israel</h3>
+<h3 align="center">Experienced Penetration Tester Specializing in Web, Mobile & Thick Client Applications from Israel</h3
 
-- 🌱 I’m currently honing my skills in **Advanced Web & Application Penetration Testing**  
 - 💬 Ask me about **Kali Linux, Windows, Web App Security, Mobile Security, Thick Client Security**  
 - 📫 Reach out to me at **Bhajby2012@gmail.com**  
 - 📄 Check out my professional experiences on [Hack The Box](https://app.hackthebox.com/profile/1138411)
